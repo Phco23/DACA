@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lldb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9eb39691c97ebcccbf75e33ba16086590f8b5270")]
 [assembly: System.Reflection.AssemblyProductAttribute("lldb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lldb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

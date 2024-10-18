@@ -25,9 +25,10 @@ namespace lldb
 			base.OnModelCreating(modelBuilder);
 			modelBuilder.Entity<Class>();
 			modelBuilder.Entity<Student>();
-		}
-
-		public DbSet<Class> Classes { get; set; }
+            modelBuilder.Entity<Course>();
+        }
+        public DbSet<Class> Classes { get; set; }
 		public DbSet<Student> Students { get; set; }
-	}
+        public DbSet<Course> Courses { get; set; }
+    }
 }
